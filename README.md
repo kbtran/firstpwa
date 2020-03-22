@@ -1,7 +1,4 @@
-# firstpwa
-First Progressive Web Apps (PWA).
-
-# Progressive Web Apps - Complete Guide
+# First Progressive Web Apps(PWA) - Complete Guide.
 This source code is part of Maximilian Schwarzmüller's "Progressive Web Apps - Complete Guide" course on udemy.com.
 https://www.udemy.com/course/progressive-web-app-pwa-the-complete-guide
 
